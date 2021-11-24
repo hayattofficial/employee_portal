@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "employee-portal-eeb80": {
+      "hosting": {
+        "employee-portal": [
+          "employee-portal-eeb80"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "employee-portal-eeb80"
+  }
+}
